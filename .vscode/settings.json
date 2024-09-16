@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.checkstyle.version": "9.3",
+  "java.checkstyle.configuration": "checkstyle.xml",
+  "[java]": {
+    "editor.defaultFormatter": "serikb.google-java-format"
+  },
+  "java.compile.nullAnalysis.mode": "automatic"
+}
